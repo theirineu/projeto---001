@@ -1,0 +1,113 @@
+.body{
+    background-color: #02374D;
+    height: inherit;   
+}
+#cont-login{
+    margin-top: 5%;    
+}
+
+
+/* Color Theme Swatches in Hex */
+.My-Color-Theme-1-hex { color: #1308C9; }
+.My-Color-Theme-2-hex { color: #08D4B5; }
+.My-Color-Theme-3-hex { color: #64BC01; }
+.My-Color-Theme-4-hex { color: #D49208; }
+.My-Color-Theme-5-hex { color: #CC0E02; }
+
+/* Color Theme Swatches in RGBA */
+.My-Color-Theme-1-rgba { color: rgba(19, 8, 201, 1); }
+.My-Color-Theme-2-rgba { color: rgba(8, 212, 181, 1); }
+.My-Color-Theme-3-rgba { color: rgba(100, 188, 1, 1); }
+.My-Color-Theme-4-rgba { color: rgba(212, 146, 8, 1); }
+.My-Color-Theme-5-rgba { color: rgba(204, 14, 2, 1); }
+
+/* Color Theme Swatches in HSLA */
+.My-Color-Theme-1-hsla { color: hsla(243, 92, 40, 1); }
+.My-Color-Theme-2-hsla { color: hsla(170, 92, 43, 1); }
+.My-Color-Theme-3-hsla { color: hsla(88, 98, 37, 1); }
+.My-Color-Theme-4-hsla { color: hsla(40, 92, 43, 1); }
+.My-Color-Theme-5-hsla { color: hsla(3, 98, 40, 1); }
+
+/* Color Theme Swatches in Hex */
+.color-1 { color: #024059 !important; }
+.color-2 { color: #026873 !important; }
+.color-3 { color: #04BF8A !important; }
+.color-4 { color: #025940 !important; }
+.color-5 { color: #03A64A !important; }
+.bg-color-1 { background-color: #024059 !important; }
+.bg-color-2 { background-color: #026873 !important; }
+.bg-color-3 { background-color: #04BF8A !important; }
+.bg-color-4 { background-color: #025940 !important; }
+.bg-color-5 { background-color: #03A64A !important; }
+.bg-color-1-dark { background-color: #02374D !important; }
+.btn-color-1 { background-color: #024059 !important; }
+.btn-color-2 { background-color: #026873 !important; }
+.btn-color-3 { background-color: #04BF8A !important; }
+.btn-color-4 { background-color: #025940 !important; }
+.btn-color-5 { background-color: #03A64A !important; }
+
+
+
+/* Color Theme Swatches in RGBA */
+.Northern-Lights-1-rgba { color: rgba(1, 63, 89, 1); }
+.Northern-Lights-2-rgba { color: rgba(1, 103, 114, 1); }
+.Northern-Lights-3-rgba { color: rgba(3, 191, 137, 1); }
+.Northern-Lights-4-rgba { color: rgba(1, 89, 63, 1); }
+.Northern-Lights-5-rgba { color: rgba(3, 165, 73, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Northern-Lights-1-hsla { color: hsla(197, 95, 17, 1); }
+.Northern-Lights-2-hsla { color: hsla(185, 96, 22, 1); }
+.Northern-Lights-3-hsla { color: hsla(162, 95, 38, 1); }
+.Northern-Lights-4-hsla { color: hsla(162, 95, 17, 1); }
+.Northern-Lights-5-hsla { color: hsla(146, 96, 33, 1); }
+
+html, body, #root{
+    height: 100%;
+}
+
+/* Opacidade = opc-x */
+
+.opc-1{
+    opacity: 70%;
+}
+
+/* Ibput text color = text-inpt-x */
+
+.input-text-light{
+    color: #f8f9fa !important;
+}
+
+/* hover */
+
+.btn-hover-top{
+    transform: translateY(0px);
+    transition: 1s !important;
+}
+
+.btn-hover-top:hover{
+    transform: translateY(-3px);
+    background-color: #ffffff !important;
+    transition: 1s;
+}
+
+.input-hvr:hover, .input-hvr:active{
+    opacity: 100%;
+}
+/* font size*/
+
+.fs-small{
+    font-size: smaller;
+}
+.fs-7{
+    font-size: 14px;
+}
+
+/* native css browser - anulation */
+a{
+    text-decoration: none !important;
+}
+
+
+
+
