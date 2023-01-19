@@ -31,7 +31,7 @@ export const SignUp = () => {
                                 <a href="#" className='color-3'> Cookie Policy</a>.
                             </p>
                             <div className="d-grid gap-2 ">
-                                <button className="btn btn-light px-5 mb-3 btn-hover-top color-1 fw-bold" type="button">Sign Up</button>
+                                <button className="btn btn-light px-5 mb-3 btn-hover-top color-1 fw-bold" type="submit">Sign Up</button>
                             </div >
                             
                         </form>
